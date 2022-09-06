@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 muhammed muhammed 4096 ሴፕቴ  6 04:01 .
+drwxrwxr-x 6 muhammed muhammed 4096 ሴፕቴ  5 13:03 ..
+-rwxrw-r-- 1 muhammed muhammed   32 ሴፕቴ  5 13:06 0-hello_world
+-rwxr--r-- 1 root     root       31 ሴፕቴ  5 14:16 1-confused_smiley
+-rwxr--r-- 1 root     root       28 ሴፕቴ  5 14:21 2-hellofile
+-rwxr--r-- 1 root     root       39 ሴፕቴ  5 14:25 3-twofiles
+-rwxr--r-- 1 root     root       29 ሴፕቴ  5 14:30 4-lastlines
+-rwxr--r-- 1 root     root       29 ሴፕቴ  5 14:31 5-firstlines
+-rwxr--r-- 1 root     root       46 ሴፕቴ  5 14:50 6-third_line
+-rwxr--r-- 1 root     root       77 ሴፕቴ  6 03:58 7-file
+-rwxr--r-- 1 root     root       36 ሴፕቴ  6 04:01 8-cwd_state
+-rw-r--r-- 1 root     root        0 ሴፕቴ  6 04:01 ls_cwd_content
+-rw-rw-r-- 1 muhammed muhammed   43 ሴፕቴ  5 13:05 README.md
