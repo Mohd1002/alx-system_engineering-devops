@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} | cut -c 1135-1136 --complement | tr -s " " "\n"
